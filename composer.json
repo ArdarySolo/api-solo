@@ -1,0 +1,15 @@
+{
+    "name": "marwen/api-solo",
+    "description": "ApiSolo -sending SMS from api",
+    "autoload": {
+        "psr-4": {
+            "Marwen\\ApiSolo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "2ws technologies"
+        }
+    ],
+    "require": {}
+}
