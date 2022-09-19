@@ -1,5 +1,5 @@
 <?php
-namespace Nabila\ApiSolo;
+namespace Solo\ApiSolo;
 class ApiSolo
 {
     public function sendSms($data)
