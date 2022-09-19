@@ -1,6 +1,7 @@
 {
     "name": "soloapi/api-solo",
     "description": "ApiSolo -sending SMS from api",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "SoloApi\\ApiSolo\\": "src/"
