@@ -1,9 +1,9 @@
 {
-    "name": "solo/api-solo",
+    "name": "soloapi/api-solo",
     "description": "ApiSolo -sending SMS from api",
     "autoload": {
         "psr-4": {
-            "Solo\\ApiSolo\\": "src/"
+            "SoloApi\\ApiSolo\\": "src/"
         }
     },
     "authors": [
