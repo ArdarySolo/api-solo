@@ -1,9 +1,9 @@
 {
-    "name": "marwen/api-solo",
+    "name": "nabila/api-solo",
     "description": "ApiSolo -sending SMS from api",
     "autoload": {
         "psr-4": {
-            "Marwen\\ApiSolo\\": "src/"
+            "Nabila\\ApiSolo\\": "src/"
         }
     },
     "authors": [
