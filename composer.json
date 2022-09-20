@@ -1,5 +1,5 @@
 {
-    "name": "soloapi/api-solo",
+    "name": "soloapi/apisolo",
     "description": "ApiSolo -sending SMS from api",
     "license": "MIT",
     "autoload": {
