@@ -1,5 +1,5 @@
  # api-solo
-api-solo gives you the opportunity to send  multiple messages at once when you like.
+api-solo gives you the opportunity to send  multiple messages at once when you like or add multiple contact
 # Installation
 $ composer require soloapi/apisolo
 # Usage
