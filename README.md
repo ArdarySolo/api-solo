@@ -93,7 +93,7 @@ Result example:
 
         }
   
-## Urls Callback
+## Urls Callback (You do not need to install api solo to use it)
 To use urls callbacks in order to get incoming Sms ,Sms delivery status ...You just need to have in your callback url :
 ### Case Message delivery status :
 ```php
